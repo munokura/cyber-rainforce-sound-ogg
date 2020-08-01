@@ -1,0 +1,19 @@
+▼このファイルについて
+Cyber-Rainforce氏が配布しているmidiファイルにループ処理を施し、oggに変換したものをパッケージしました。
+
+▼オリジナル配布元
+http://cyber-rainforce.net/
+
+
+▼利用規約
+マテリアル・コモンズ・ブルー・ライセンス
+https://materialcommons.tk/mtcm-b-summary/
+
+▼表示クレジット
+編集: fungamemake.com (著作者:Cyber-Rainforce)
+
+▼ファイル名と曲名
+基本的にフォルダで分けてありますが、ファイル名の後ろに'_l'がついているものはループ処理されています。
+
+BGM(ループ有):314
+ME(ループ無):21
